@@ -17,3 +17,4 @@ jobs:
           token: ${{ secrets.SNYK_SECRET }}
           language: LANGUAGE_JS
           
+          
